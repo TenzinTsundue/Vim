@@ -1,18 +1,19 @@
 # Vim
 Here I try to learn Vim commands and tips to make vim more capable for daily use
 
-# Vim
 ```
 # to open vim
 >>vim file.txt
 ```
 
 *Quitting vim*
+```
 :q quit
 :wq save quit
 :q! quit and don’t save
-
+```
 *Navigation*
+```
 j down
 k up
 h left
@@ -22,7 +23,8 @@ gg beginning of page
 } go down a block of code
 { go up a block of code
 20j combination of 20 line down, can also be use with h k l
-
+```
+```
 w take to the next word
 W take to next space
 b take to the previous word
@@ -35,8 +37,10 @@ zz center the work space
 *toggle between all the instance used 
 t/ take your cursor to before /
 f/ take your cursor to /
+```
 
 *Edit*
+```
 i insert
 a insert one letter after
 A inset end of the line
@@ -55,5 +59,5 @@ ct/ change till /
 . previous command
 
 V visual mode(selection) and we can add with any movement
-
+```
 36 min left in video
