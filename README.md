@@ -60,4 +60,7 @@ ct/ change till /
 
 V visual mode(selection) and we can add with any movement
 ```
-36 min left in video
+```
+~ swap case
+r replace
+```
