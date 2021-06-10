@@ -1,4 +1,4 @@
-# Vim
+﻿# Vim
 Here I try to learn Vim commands and tips to make vim more capable for daily use
 
 ```
@@ -64,3 +64,5 @@ V visual mode(selection) and we can add with any movement
 ~ swap case
 r replace
 ```
+
+#### Added this line
